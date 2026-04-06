@@ -62,7 +62,3 @@ Menggunakan `ThreadPoolExecutor`
 - Waktu eksekusi lebih efisien dibandingkan jika dijalankan secara berurutan
 
 ---
-
-## Cara Menjalankan Program
-
-1. Pastikan Python sudah terinstall
